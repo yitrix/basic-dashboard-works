@@ -1,0 +1,2 @@
+pandas  # For data manipulation and analysis
+streamlit  # For building the web application
